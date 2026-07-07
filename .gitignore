@@ -1,0 +1,25 @@
+# This repository ships ONLY the seed (CID). The implementation is regenerated
+# from seed.md by an AI agent — the source code is intentionally NOT versioned.
+
+# Source code & build config (kept locally, never pushed)
+Sources/
+Package.swift
+Package.resolved
+Info.plist
+make-app.sh
+setup-cert.sh
+
+# Build artifacts
+.build/
+build/
+DerivedData/
+
+# Local signing cert & keys
+cert/
+*.pem
+*.p12
+*.keychain-db
+
+# macOS / logs
+.DS_Store
+*.log
