@@ -1,4 +1,4 @@
-# Fala — Seed (CID)
+# Fala — Seed 
 
 This repository ships a **seed**: a single specification file, [`seed.md`](seed.md), that a capable AI coding agent can use to build **Fala** from scratch.
 
